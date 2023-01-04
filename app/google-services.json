@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "299607193357",
+    "project_id": "appleshop-7a7d2",
+    "storage_bucket": "appleshop-7a7d2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:299607193357:android:3a27c59ddd41857170e244",
+        "android_client_info": {
+          "package_name": "com.ester.appleshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "299607193357-3a6u38phg5mhfpbp8edsik63kutnsb8b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJeu-QWCMnCmxUpOtrv3dtCNnre1m_Css"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "299607193357-3a6u38phg5mhfpbp8edsik63kutnsb8b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
